@@ -1,5 +1,5 @@
 # CMSC-405-Project-3
-#### Introduces the use of three.js library.
+#### Introduces the use of three.js - Javascript 3D Library.
 
 Creates a simple scene with animation, in which the user can manipulate, using the three.js library.
 
