@@ -5,7 +5,7 @@ Creates a simple scene with animation, in which the user can manipulate, using t
 
 The three.js - Javascript 3D Library can be found [here](https://threejs.org/)
 
-_Note: The "Three.js_Templates" folder contains the java files I was supplied to be used as a template. The result being the "Three.js_Project" project._
+_Note: The "Three.js_Templates" folder contains the files I was supplied to be used as a template. The result being the "Three.js_Project" project._
 
 ---
 ###### This project was assigned while attending University of Maryland University College (UMUC)
